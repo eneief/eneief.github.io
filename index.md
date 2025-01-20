@@ -15,38 +15,38 @@ excerpt: "Nafees is computer science student interested in a career in the tech 
 <div id="galleryCarousel" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="assets/img/IMG_4505.JPG" class="d-block w-100" alt="Project Image 1">
+      <img src="assets/img/IMG_4505.JPG" class="d-block w-100" alt="Cool Car">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Project Image 1</h5>
-        <p>Description for the first image.</p>
+        <h5>Vroom vroom</h5>
+        <p>Cool car in some road in Nashville.</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/img/IMG_4499.JPG" class="d-block w-100" alt="Project Image 2">
+      <img src="assets/img/IMG_4499.JPG" class="d-block w-100" alt="Vandy womens basketball">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Project Image 2</h5>
-        <p>Description for the second image.</p>
+        <h5>Vanderbilt Women's Basketball</h5>
+        <p>Imagine she missed lol</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/img/IMG_4242.JPG" class="d-block w-100" alt="Project Image 3">
+      <img src="assets/img/IMG_4242.JPG" class="d-block w-100" alt="Black and White Portrait">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Project Image 3</h5>
-        <p>Description for the third image.</p>
+        <h5>Black and White Portrait</h5>
+        <p>Light and Shadows!</p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/img/IMG_4399.JPG" class="d-block w-100" alt="Project Image 4">
+      <img src="assets/img/IMG_4399.JPG" class="d-block w-100" alt="Cold ECE Student">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Project Image 4</h5>
-        <p>Description for the fourth image.</p>
+        <h5>Cold ECE Student</h5>
+        <p>🥶 </p>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="assets/img/IMG_4394.JPG" class="d-block w-100" alt="Project Image 5">
+      <img src="assets/img/IMG_4394.JPG" class="d-block w-100" alt="Canadian">
       <div class="carousel-caption d-none d-md-block">
-        <h5>Project Image 5</h5>
-        <p>Description for the fifth image.</p>
+        <h5>Canadian</h5>
+        <p>Canadian student in natural habitat</p>
       </div>
     </div>
   </div>
