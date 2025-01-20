@@ -9,3 +9,20 @@
     font-size: 1.2rem;
   }
   
+  header {
+    background-color: black;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ..carousel-inner {
+    max-height: 30vh; 
+    overflow: hidden;
+  }
+  
+  .carousel-inner img {
+    width: 100%;
+    height: auto; 
+    object-fit: contain; 
+  }
+  
