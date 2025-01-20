@@ -38,4 +38,19 @@ excerpt: "Nafees is computer science student interested in a career in the tech 
     <p><strong>Canadian</strong><br>Canadian student in natural habitat.</p>
   </div>
 
+  <div>
+    <img src="assets/img/IMG_4503.JPG" alt="Downtown Nashville at Night" style="width: 100%; border-radius: 5px;">
+    <p><strong>Downtown Nashville at Night</strong><br>What were they looking at?</p>
+  </div>
+
+  <div>
+    <img src="assets/img/IMG_4501.JPG" alt="Scary alley" style="width: 100%; border-radius: 5px;">
+    <p><strong>Scary alley</strong><br>Stephen King wants to know where this is.</p>
+  </div>
+
+  <div>
+    <img src="assets/img/IMG_4500.JPG" alt="Ghost tour guide" style="width: 100%; border-radius: 5px;">
+    <p><strong>Ghost tour guide</strong><br>Locked in tour guide</p>
+  </div>
+
 </div>
