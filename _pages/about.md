@@ -1,31 +1,37 @@
 ---
 
-title: "About David Florian"
+title: "About Nafees"
 
 ---
 
 ## Education
 
-David prides himself on his diverse skill set. His most prominent fields of expertise are additive manufacturing (i.e., 3D printing) and biotechnology. 
+Nafees is pursuing a Bachelor of Science in Computer Science with an engineering focus in Human-Computer Interaction and a minor in Data Science at Vanderbilt University. He began his studies in 2021 and will graduate in May 2025. Nafees is currently seeking opportunities within the tech industry, where he can apply his skills in software development, user experience design, and data analysis.
 
-* University of Virginia
-  * BS Mathematics
-  * BS Biomedical Engineering
 * Vanderbilt University
-  * PhD Biomedical Engineering
+  * BS Computer Science
 
 ## Technical Skills
 
-David can operate a number of different computer controlled (CNC) fabrication tools to turn 3D models into real-life parts. David has experience with the following additive manufacturing technologies:
+Nafees has experience with various programming tools, frameworks, and digital fabrication technologies gained through coursework and projects. 
 
+Programming and Development:
+* Languages: Python, JavaScript, TypeScript, R
+* Frameworks/Tools: React.js, SwiftUI, Firebase, MongoDB
+
+Digital Fabrication:
 * Fused Filament Fabrication (FFF)
-* Stereolithography (SLA)
-* Selective Laser Sintering (SLS)
-* 3D Inkjet Printing
-* Bioplotting
+* CAD Modelling with Fusion 360
 
-## Press 
+Other Tools:
+* Adobe Creative Suite (Photoshop, Lightroom)
 
-The new Digital Fabrication Minor was covered in the [Vanderbilt Hustler](https://vanderbilthustler.com/2022/11/09/digital-fabrication-minor-introduced-for-2022-23-academic-year/).
+## Work Experience
+* UX Researcher and Software Developer, RedForest (Aug 2024 - Present)
+* Classroom Technology Specialist, Vanderbilt University Information Technology (Aug 2023 - Present)
+* Undergraduate Student Researcher, Socio-Technical Interaction Research Lab (Aug 2023 - Aug 2024)
+* Product Manager Intern, Walk With Path (Aug 2023 - Dec 2023)
 
-![David Florian](/assets/img/David_Headshot_web2.jpg)
+## Publications/Awards
+* Winner of the best use of Terraform prize in VandyHacks (2024)
+* Winner of MLH prize in UVA's HooHacks (2024)
