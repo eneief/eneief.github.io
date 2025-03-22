@@ -1,6 +1,6 @@
 ---
-title: "Microfluidic Separator"
-excerpt: "Microfluidic separator capable of sorting particles between 125-150μm and 425-500μm ranges using pinch flow fractionation"
+title: "Microfluidic Device"
+excerpt: "Microfluidic separator Device capable of sorting particles between 125-150μm and 425-500μm ranges using pinch flow fractionation"
 header:
   image: assets/img/ufluid 1.png
   teaser: /assets/img/ufluid 1.png
