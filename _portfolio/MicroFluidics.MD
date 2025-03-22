@@ -99,8 +99,8 @@ I was not able to personally test my device but during the testing phase, we enc
 - Particle adhesion: Some particles adhered to channel walls, reducing separation efficiency
 
 # Images
-![MicroFluidics Device](assets/img/IMG_5492.jpg)
-![Device with Mold](assets/img/IMG_5499.jpg)
+![MicroFluidics Device](/assets/img/IMG_5492.jpg)
+![Device with Mold](/assets/img/IMG_5499.jpg)
 
 
 1. Huh, D., Bahng, J. H., Ling, Y., Wei, H. H., Kripfgans, O. D., Fowlkes, J. B., Grotberg, J. B., & Takayama, S. (2007). Gravity-driven microfluidic particle sorting device with hydrodynamic separation amplification. Analytical Chemistry, 79(4), 1369-1376. https://doi.org/10.1021/ac061542n ↩
