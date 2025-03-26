@@ -51,10 +51,6 @@ Here are some key design considerations:
 - **Stability features**: bracing structures were incorporated to prevent shearing and twisting when the ring is pulled
 - **Grip enhancement**: A ridged pattern was created using the geometric pattern tool on the jaw tips to improve gripping capability
 
-<iframe src="https://your-fusion360-share-link-dovetail-detail" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
-
-Fig 4: Close-up detail of the circular dovetail joints connecting the components
-
 ## Design Specifications
 - **Jaw Length**: 90.634 mm
 - **Jaw Width at Widest**: 70.06mm
