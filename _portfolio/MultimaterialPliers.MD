@@ -82,6 +82,6 @@ Scale variations for different precision requirements
 I plan to revisit these pliers and redesign them to be smaller but maintain the same ergonomic benefits. Future iterations could incorporate different TPU materials to find the optimal balance between flexibility for the return mechanism and rigidity for gripping strength.
 
 # Images
-![Completed Pliers](/assets/img/pliers1.jpg)
-![Completed Pliers](/assets/img/pliers2.jpg)
-![Completed Pliers](/assets/img/pliers3.jpg)
+![Completed Pliers](/assets/img/pliers1.png)
+![Completed Pliers](/assets/img/pliers2.png)
+![Completed Pliers](/assets/img/pliers3.png)
