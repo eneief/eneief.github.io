@@ -57,6 +57,7 @@ Here are some key design considerations:
 - **Material Combination**: PLA (handle and pull ring), TPU (jaw pieces)
 - **Overall Scale**: 1.2x uniform scaling from original design
 - **Jaw Texturing**: Ridged pattern created using geometric pattern tool in Fusion 360
+- **Print Settings**:20% monotonic
 
 ## Material Interface Considerations
 To connect both the different bodies I used a custom circular dovetail joint which was carefully designed to ensure the desired movement whilst maintaining the sructural integrity at the boundaries. The clearance between them was set to 0.1mm which allowed for a satisfying but secure fit.
