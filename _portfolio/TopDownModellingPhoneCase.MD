@@ -19,8 +19,6 @@ gallery:
     alt: Bike Mount Holder
 ---
 
-# Bike Phone Mount: A Top-Down Modelling Approach
-
 ## Top-Down Modelling
 
 Top-down modelling is a CAD methodology that fundamentally differs from the traditional bottom-up approach. In top-down modelling, rather than creating individual components separately and later combining them, you first establish the overall assembly structure and then develop individual components within this structure. This ensures that all parts are designed with a clear understanding of their spatial relationships and functional interactions with other components.
