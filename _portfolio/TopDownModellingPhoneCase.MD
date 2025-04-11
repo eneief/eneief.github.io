@@ -2,21 +2,21 @@
 title: "Bike Phone Mount: A Top-Down Modelling Approach"
 excerpt: "A phone holding mount attachment for your bike"
 header:
-  image: /assets/img/bikeMount2.png)
-  teaser: 
+  image: /assets/img/bikeMount2.png
+  teaser: /assets/img/bikeMount2.png
 gallery:
   - url: /assets/img/bikeMount.png
     image_path: /assets/img/bikeMount.png
-    alt: /assets/img/bikeMount.png
+    alt: Bike Mount Holder
   - url: /assets/img/bike_png.png
     image_path: /assets/img/bike_png.png
-    alt: /assets/img/bike_png.png
+    alt: Bike Mount Holder
   - url: /assets/img/bikeMount.jpg
     image_path: /assets/img/bikeMount.jpg
-    alt: /assets/img/bikeMount.jpg
+    alt: Bike Mount Holder
   - url: /assets/img/bikeMount2.png
     image_path: /assets/img/bikeMount2.png
-    alt: /assets/img/bikeMount2.png
+    alt: Bike Mount Holder
 ---
 
 # Bike Phone Mount: A Top-Down Modelling Approach
