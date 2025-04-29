@@ -26,21 +26,21 @@ gallery:
 
 This project explores functional lightweighting with an emphasis on high-fashion aesthetics using generative design. The final part is a pair of generatively designed sunglasses, manufactured using Selective Laser Sintering (SLS) with PA12 Nylon on the Formlabs Fuse.
 
-The inspiration came from the luxury eyewear brand Gentle Monster, famous for its unique and often avant-garde designs. My girlfriend is a big fan, but their products are very expensive and usually produced in limited quantities. This project was an attempt to leverage the tools and techniques we've learned about in generative design and SLS printing, to create something functional, pretty, and personally meaningful.
+The inspiration came from the luxury eyewear brand Gentle Monster, famous for its unique and often avant-garde designs. My girlfriend is a big fan, but their products are very expensive and usually produced in limited quantities. This project was an attempt to leverage the tools and techniques we've learned about in class on generative design and SLS printing, to create something functional, pretty, and personally meaningful.
 
-While initially conceived as a potential redesign of lab safety glasses (which would have fallen under the 'Digital Fabrication Aid' option), the project evolved into creating sunglasses (more aligned with the 'Functional Lightweighting' poption). The goal was to reduce material usage/weight compared to a traditionally produced frame whilst still maintaining structural integrity and achieving a complex and organic style that is usually produced by generative design. This project solves the problem of translating a high concept aesthetic into a manufacturable object using advanced tools on campus(while also still serving as a personalised gift.)
+While initially the idea was conceived as a potential redesign of lab safety glasses (which would have fallen under the Digital Fabrication Aid option), the project evolved into creating sunglasses (more aligned with the Functional Lightweighting poption). The goal was to reduce material usage/weight compared to a traditionally produced frame whilst still maintaining structural integrity and achieving a complex and organic style that is usually produced by generative design. This project solves the problem of translating a conceptual aesthetic item into an actual manufacturable object using advanced tools on campus(while also still serving as a personalised gift.)
 
 ## Design Rationale and Evolution
 
-Since the rapid prototyping class, I've been fascinated by how digital fabrication, especially 3D printing, can create not just functional parts but also pretty aesthetic and complex forms, like the Adidas shoes shown in class and on Dr Florian's person. This project felt like a great opportunity to move beyond purely utilitarian designs and explore the artistic potential.
+Since the rapid prototyping class, I've been fascinated by how digital fabrication, especially 3D printing, can create not just functional parts but also pretty aesthetic and complex forms, like the Adidas shoes shown in class/worn by Dr Florian. This project felt like a great opportunity to move beyond purely utilitarian designs and explore the artistic potential.
 
 The design process involved several key stages and iterations:
 
 1.  **Initial Concept:** Started by thinking about modifying standard lab safety glasses, potentially replacing the arms with generatively designed ones for better fit/reduced weight.
 2.  **Pivot to Sunglasses:** Shifted focus to creating sunglasses, which offered more creative freedom and aligned better with the Gentle Monster inspiration. I sourced a pair of lenses from Amazon to serve as a functional and dimensional constraint.
 3.  **Generative Design Setup:** Modeled the core functional areas (lens mounts, hinge points, temple rests) as preserve geometries in Fusion 360. Used obstacle geometries extensively, including a scaled human head model approximating my girlfriend's head, to guide the generative outcome towards a wearable glasses form factor and prevent interference with the lenses.
-4.  **Iteration and Refinement:** The initial generative results were visually interesting but often had sharp edges or areas that would be uncomfortable. Significant refinement involved using Fusion 360's direct editing tools and adding fillets to smooth contact points, particularly where the arms rest on the temples and ears. This iterative process was important for balancing the organic generative form with practical wearability.
-5.  **SLS Optimization:** Final adjustments were made considering the SLS printing process which ensured minimum feature sizes were met and fully embracing the support-free nature of SLS for all the fun geometric complexity that generative design produces.
+4.  **Iteration + Refinement:** The initial generative results were visually interesting but often had sharp edges or areas that would be uncomfortable. Significant refinement involved using Fusion 360's direct editing tools and adding fillets to smooth contact points, particularly where the arms rest on the temples and ears. This iterative process was important for balancing the organic generative form with practical wearability.
+5.  **SLS Optimisation:** Final adjustments were made considering the SLS printing process which ensured minimum feature sizes were met and fully embracing the support-free nature of SLS for all the fun geometric complexity that generative design produces.
 
 This project was meaningful because it allowed me to create something genuinely cool and desirable to me. It combined the functional requirements of eyewear (holding lenses, fitting comfortably, etc) with the aesthetic potential unlocked by generative design and SLS.
 
@@ -90,13 +90,13 @@ Given the nature of sunglasses, traditional mechanical testing wasn't the primar
 This project was really rewarding, pushing beyond functional applications and more into the realm of aesthetics and product design.
 
 **Strengths Experienced:**
-*   **Unique Aesthetics:** Generative design excels at creating organic, complex forms that would be difficult or impossible to design manually. This was perfect for the avant-garde Gentle Monster aesthetic.
-*   **Material Efficiency:** The process inherently optimizes material placement for the defined loads and constraints, resulting in lightweight parts. This has clear benefits for cost and sustainability (less material used, less waste in SLS). Seeing this applied in areas like racecars makes total sense.
-*   **Discovering Solutions:** Sometimes the designs produced are very unexpected or unconventional but effective solutions.
+*   **Aesthetics:** Generative design excels at creating organic, complex forms that would be difficult or impossible to design manually. This was perfect for the avant-garde Gentle Monster aesthetic.
+*   **Material Usage Efficiency:** The process inherently optimizes material placement for the defined loads and constraints, resulting in lightweight parts. This has clear benefits for cost and sustainability (less material used, less waste in SLS). Seeing this applied in areas like racecars makes total sense.
+*   **Discovering New Solutions:** Sometimes the designs produced are very unexpected or unconventional but effective solutions.
 
 **Challenges and Limitations:**
 *   **Control vs. Outcome:** While preserves and obstacles guide the design, you don't have complete control over the final intricate details of the geometry. Achieving a specific pre-determined look can be really hard if it conflicts with the load paths. A lot of my preserves/obstacles were essentially trying to force a specific form factor haha.
-*   **Software Workflow:** Working with a large number of preserves and obstacles in Fusion 360 became quite complex to manage. Setup and modification could be time-consuming.
+*   **Fusion Workflow:** Working with a large number of preserves and obstacles in Fusion 360 became quite complex to manage. Setup and modification could be time-consuming.
 *   **Iteration Time:** Generative studies take time to compute, which can slow down the iterative design cycle, although mine was manageable.
 *   **Interface Limitations:** Designing complex 3D forms, especially defining spatial constraints like obstacles, using a 2D screen and mouse feels inherently limiting. More than ever before I feel that VR/AR interfaces could potentially make CAD, and especially generative design setup and refinement (like direct editing), much more intuitive and maybe even fun.
 *   **Refinement:** The raw generative output often needs significant post-processing to be practical or comfortable, adding manual steps back into the workflow(This definitely isn't necessarily a weakness but maybe when you're lazy.)
