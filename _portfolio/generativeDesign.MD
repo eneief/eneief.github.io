@@ -20,7 +20,7 @@ gallery:
 ---
 
 # Generative Eyewear
-![Generative Sunglasses](assets/img/Glasses.png)
+![Generative Sunglasses](/assets/img/Glasses.png)
 
 ## Overview of the Part and Application
 
@@ -83,7 +83,7 @@ Given the nature of sunglasses, traditional mechanical testing wasn't the primar
 
 *   **Iterative Refinement:** Feedback from these fit tests directly informed design revisions between iterations. This involved adjusting curves, smoothing edges with fillets, and tweaking the overall dimensions based on real-world wearability. While I couldn't easily measure clamping forces or deflection under load, ensuring the glasses were comfortable and fit well demonstrated enough success in my actual intended context. It very much helped that one of my friends in the other section had a head shaped exacty the same as my 3d model. 
 
-![Generative Sunglasses Final Print](assets/img/IMG_5887.jpg)
+![Generative Sunglasses Final Print](/assets/img/IMG_5887.jpg)
 
 ## Discussion and Reflection
 
@@ -109,8 +109,8 @@ However, it might fall short where exact geometric form and surface finish thats
 Overall, this project cemented my appreciation for generative design as a powerful tool, for functional engineering applications also for creative endeavours when combined with advanced technologies like SLS(though this definitely isn't practical in the real world for me). It was very fun to make something functional that also looks unique and I hope that I can keep doing this in the future.
 
 ## Pictures
-![Full Timeline of Prototypes](assets/img/IMG_4206.jpg)
-![Generative Sunglasses Final Print](assets/img/IMG_5887.jpg)
-![preserve/obstacle setup in Fusion 360](assets/img/preservesobstacles.png)
-![Close-up detail](assets/img/IMG_5897.jpg)
+![Full Timeline of Prototypes](/assets/img/IMG_4206.jpg)
+![Generative Sunglasses Final Print](/assets/img/IMG_5887.jpg)
+![preserve/obstacle setup in Fusion 360](/assets/img/preservesobstacles.png)
+![Close-up detail](/assets/img/IMG_5897.jpg)
 ---
