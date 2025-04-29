@@ -70,9 +70,7 @@ The generative design study was set up in Autodesk Fusion 360.
 
 
 ## Interactive Model
-
-[Placeholder: Interactive Fusion 360 Model Embed Code - You can generate this from the Fusion 360 share link]
-`<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4f9c573e68805dd02?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>`
+<iframe src="https://vanderbilt643.autodesk360.com/shares/public/SH286ddQT78850c0d8a4f9c573e68805dd02?mode=embed" width="1024" height="768" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ## Testing and Validation
 
